@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <classes>
+      <class name="edit.EducacionIT_74161.PracticaM3_1">
+        <methods>
+          <include name="irUrl"/>
+          <include name="maxVentana"/>
+          <include name="finSuite"/>
+          <include name="setUP"/>
+          <include name="CapturaPantalla"/>
+          <include name="cierreNavegador"/>
+          <include name="finPrueba"/>
+          <include name="registrarUsuario"/>
+        </methods>
+      </class> <!-- edit.EducacionIT_74161.PracticaM3_1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
