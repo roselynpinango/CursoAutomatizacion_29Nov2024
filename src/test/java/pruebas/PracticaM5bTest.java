@@ -33,6 +33,7 @@ public class PracticaM5bTest {
 		AlertPage pagina = new AlertPage(driver);
 		pagina.hacerClicEnNotificacion();
 		
+		// Comentario sobre la alerta
 		Alert alerta = driver.switchTo().alert();
 		alerta.accept(); // Clic en Aceptar de la alerta
 	}
